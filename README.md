@@ -120,3 +120,5 @@ Pros are when you use less paralel strips on the same GPIO port. You can efficie
 ## Porting
 To port this code to a different STM32 MCU, you have to check or correct the correct timer, DMA channels and streams. You can find some info here
 https://github.com/hubmartin/WS2812B_STM32F3/issues/1
+
+Нужно проверить и сделать под себя 
